@@ -13,7 +13,7 @@ Verder wordt er gebruik gemaakt van [Turf.js](https://turfjs.org/). Turf.js kan 
 Een adres kan worden opgevraagd doormiddel van:
 ```javascript
 var postcode = "1011AB";
-var huisnummer = "107"
+var huisnummer = "107";
 adres(postcode, huisnummer)
 ```
 Bij een geldig adres zullen de volgende velden worden gegeven:
